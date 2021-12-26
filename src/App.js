@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <NewComponent />
+      <h1>Boo</h1>
     </div>
   );
 }
