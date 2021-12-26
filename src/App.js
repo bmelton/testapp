@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <NewComponent />
       <h1>Boo</h1>
+      <h3>This is on the internet</h3>
     </div>
   );
 }
